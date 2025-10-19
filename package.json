@@ -1,0 +1,21 @@
+{
+  "name": "cthulu-dark",
+  "displayName": "Cthulu Dark",
+  "description": "Cthulu inspired dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cthulu Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cthulu Dark-color-theme.json"
+      }
+    ]
+  }
+}
